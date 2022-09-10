@@ -1,3 +1,3 @@
-# DRF-strategy-pattern
-
-// TO-DO Push files to repo
+<<<<<<< HEAD
+Strategy Design Pattern implemented for using with Django REST Framework
+>>>>>>>
